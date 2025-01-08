@@ -16,7 +16,7 @@ Through this method, I install multiple Nodes on my Windows-Server VPS and an id
 
 **4. Run Docker (no need to login), and wait until Docker Engine starts running**
 
-**5. Download, unzip and install Openledger Node (Windows Version)**
+**5. [Download](https://testnet.openledger.xyz/app-store), unzip and install Openledger Node (Windows Version)**
 
 ![image](https://github.com/user-attachments/assets/b5634cc5-2559-48bc-a443-9347456c3529)
 
