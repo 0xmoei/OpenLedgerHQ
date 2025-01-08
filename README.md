@@ -23,7 +23,7 @@ Through this method, I install multiple Nodes on my Windows-Server VPS and an id
 ![Screenshot_554](https://github.com/user-attachments/assets/31581094-8854-4b71-994e-a862661f1095)
 
 
-**6. Open Node app, setup your Node and start running**
+**6. Open Node app, Login using your dashboard gmail, setup your Node and start running**
 
 ![image](https://github.com/user-attachments/assets/39d52676-5a12-4681-b24d-ab746b3f5995)
 
