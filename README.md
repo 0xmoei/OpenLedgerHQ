@@ -25,8 +25,6 @@ Through this method, I install multiple Nodes on my Windows-Server VPS and an id
 
 **6. Open Node app, setup your Node and start running**
 
-![image](https://github.com/user-attachments/assets/122605cb-872a-4173-867e-33063e709ccb)
-
 ![image](https://github.com/user-attachments/assets/39d52676-5a12-4681-b24d-ab746b3f5995)
 
 ## 🟠 Check Points
