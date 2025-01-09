@@ -1,4 +1,5 @@
 # OpenLedgerHQ
+* I will cover these methods to install Openledger Worker Node: 1.Chrome Extension 2.Windows 3.Linux (CLI)
 * We can add as many nodes as we want to our dashboard
 * Rewards rate for each Node:
 
