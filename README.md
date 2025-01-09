@@ -1,9 +1,10 @@
 # OpenLedgerHQ
 
-* Login dashboard with gmail: https://testnet.openledger.xyz/dashboard
+* Login to **[Dashboard](https://testnet.openledger.xyz/?referral_code=bdqbx4mw44)** with gmail
 
 * We have different available installation methods you can choose here: https://testnet.openledger.xyz/app-store
-![image](https://github.com/user-attachments/assets/26e15430-f6b0-4be8-ba67-a3b02a8b8185)
+
+![image](https://github.com/user-attachments/assets/889218c1-673c-4083-922e-f82e043172c9)
 
 ## 🟠 Node Installation (Windows)
 Through this method, I install multiple Nodes on my Windows-Server VPS and an idle PC
