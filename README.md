@@ -53,3 +53,21 @@ You can check your Online Nodes and Points [here](https://testnet.openledger.xyz
 
 ### 🟠 Node Installation (Linux CLI) soon...
 
+
+
+
+sudo apt update
+sudo apt install autocutsel
+
+nano ~/.vnc/xstartup
+
+#!/bin/bash
+xrdb $HOME/.Xresources
+autocutsel -fork
+autocutsel -selection PRIMARY -fork
+startxfce4 &
+
+chmod +x ~/.vnc/xstartup
+
+vncserver -kill :1
+
